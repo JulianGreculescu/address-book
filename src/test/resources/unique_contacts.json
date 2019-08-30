@@ -1,0 +1,13 @@
+[ {
+  "addressBookOwner" : "Fred",
+  "contacts" : [ {
+    "name" : "THE BUILDER Bob",
+    "phoneNo" : "0424 320 665"
+  } ]
+}, {
+  "addressBookOwner" : "Brad",
+  "contacts" : [ {
+    "name" : "DOE John",
+    "phoneNo" : "0484 123 456"
+  } ]
+} ]

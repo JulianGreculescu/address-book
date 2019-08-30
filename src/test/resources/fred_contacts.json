@@ -1,0 +1,13 @@
+{
+  "addressBookOwner" : "Fred",
+  "contacts" : [ {
+    "name" : "CITIZEN Jane",
+    "phoneNo" : "0435 478 123"
+  }, {
+    "name" : "POPPINS Mary",
+    "phoneNo" : "0410 181 523"
+  }, {
+    "name" : "THE BUILDER Bob",
+    "phoneNo" : "0424 320 665"
+  } ]
+}
